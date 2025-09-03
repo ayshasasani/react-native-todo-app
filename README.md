@@ -11,7 +11,7 @@ A modern Todo app built with React Native + Expo. Supports full CRUD, task compl
 
 ## How to run
 1. Clone the repo  
-   `git clone https://github.com/YOUR_USERNAME/react-native-todo-app.git`  
+   `git clone https://github.com/ayshasasani/react-native-todo-app.git`  
 2. Install dependencies  
    `npm install`  
 3. Start Expo  
